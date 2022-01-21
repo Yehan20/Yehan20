@@ -27,7 +27,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Yehan20)
 
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?yehan20" frameborder="0"></iframe>
+
 
 
 
