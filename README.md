@@ -1,6 +1,10 @@
 ### Hi there my name is Yehan 👋
-<p>
+<hr>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yehan20r\&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+### Techonlogies and Tools
+<p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
@@ -8,9 +12,11 @@
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="PHP" src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white' />
+  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yehan20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 <!--
 **Yehan20/Yehan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
