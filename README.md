@@ -27,6 +27,11 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Yehan20)
 
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?yehan20" frameborder="0"></iframe>
+
+
+
+
 ### Techonlogies and Tools
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
