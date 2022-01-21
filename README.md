@@ -1,6 +1,6 @@
 ### Hi there my name is Yehan 👋
 <hr>
-### Glad to See you
+
 
 <a href="https://www.youtube.com/channel/UCehXOE5ywi5W0THfHnNZwpg">
   <img
@@ -15,6 +15,13 @@
   />
 </a>
 
+### Glad to See you
+
+- 🔭 I’m currently Looking for an Internship or a Trainee job
+- 🌱 I’m currently learning React and Fire base
+- 💬 Ask me about Java Script
+-  📫 Get in Touch: yehansk15@gmail.com
+-  👯 I’m looking to Open Source Projects
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yehan20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
