@@ -24,7 +24,7 @@
 -  👯 I’m looking to Open Source Projects
 
 <p>
-    <img style="width:50%;" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yehan20&show_icons=true&count_private=true&include_all_commits=true&custom_title=My GitHub stats&locale=en" alt="Yehan20" />
+    <img style="width:50%;" height="184em" src="https://github-readme-stats.vercel.app/api?username=Yehan20&show_icons=true&count_private=true&include_all_commits=true&custom_title=My GitHub stats&locale=en" alt="Yehan20" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehan20&show_icons=true&layout=compact"/>
 </p>
 
