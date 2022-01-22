@@ -24,7 +24,7 @@
 -  👯 I’m looking to Open Source Projects
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Yehan20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yehan20&show_icons=true)](https://github.com/Yehan20/github-readme-stats)
 
 
 
