@@ -25,7 +25,7 @@
 
 <div style="display:flex;">
   <img  height="180em"  style="width:50%;" src="https://github-readme-stats.vercel.app/api?username=Yehan20&show_icons=true&count_private=true&include_all_commits=true&custom_title=My GitHub stats&locale=en" />
-  <img  height="178em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yehan20&show_icons=true&layout=compact' />
+  <img  height="176em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yehan20&show_icons=true&layout=compact' />
 </div>  
 
                                                                                                                                                                                
