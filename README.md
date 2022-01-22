@@ -23,7 +23,7 @@
 -  📫 Get in Touch: yehansk15@gmail.com
 -  👯 I’m looking to Open Source Projects
 
-<div>
+<div style="display:felx;">
   <img  style="" src="https://github-readme-stats.vercel.app/api?username=Yehan20&show_icons=true&count_private=true&include_all_commits=true&custom_title=My GitHub stats&locale=en"" />
   <img  height=195  src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yehan20&show_icons=true&layout=compact' />
 </div>  
