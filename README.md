@@ -15,7 +15,7 @@
   />
 </a>
 
-### Glad to See you
+### Nice to Meet You
 
 - 🔭 I’m currently Looking for an Internship or a Trainee job
 - 🌱 I’m currently learning React and Fire base
