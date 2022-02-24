@@ -1,4 +1,4 @@
-### Hello there my name is Yehan 👋
+### Hi there my name is Yehan 👋
 <hr>
 
 
@@ -18,7 +18,7 @@
 ### Nice to Meet You
 
 - 🔭 I’m currently Looking for an Internship or a Trainee job
-- 🌱 I’m currently learning React and Fire base
+- 🌱 I’m currently learning React and Fire base and laravel
 - 💬 Ask me about Java Script
 -  📫 Get in Touch: yehansk15@gmail.com
 -  👯 I’m looking to Open Source Projects
