@@ -1,4 +1,4 @@
-### Hello there name is Yehan 👋
+### Hello I am Yehan 👋
 <hr>
 
 
