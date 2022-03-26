@@ -24,6 +24,7 @@
 - 💬 Ask me about Java Script
 -  📫 Get in Touch: yehansk15@gmail.com
 -  👯 I’m looking to Open Source Projects
+-  goal_net 2022 Goals: Learn About node , express and build mern stack app, learn about blockchian, Learn spring and phython
 
 <p>
     <img height="180em" width=400 src="https://github-readme-stats.vercel.app/api?username=Yehan20&show_icons=true&count_private=true&include_all_commits=true&custom_title=My GitHub stats&locale=en" alt="Yehan20" />
