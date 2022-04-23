@@ -53,6 +53,8 @@
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt='java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' />
   <img alt='figma' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' />
+  <img alt='react' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+  <img alt='tailwind-css src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
 </p>
 
 
