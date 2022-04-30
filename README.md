@@ -20,11 +20,11 @@
 ### Nice to Meet You
 
 - 🔭 I’m currently Looking for an Internship or a Trainee job
-- 🌱 I’m currently learning React and Fire base and laravel
-- 💬 Ask me about Java Script
+- 🌱 I’m currently learning React and Firebase and laravel and Node
+- 💬 Ask me about JavaScript , Css 
 -  📫 Get in Touch: yehansk15@gmail.com
 -  👯 I’m looking to Open Source Projects
--  2022 Goals: Learn About Node , Express and build Mern stack app, learn about Blockchian, Learn Spring and Phython
+-  2022 Goals: Learn About Node , Express and build Mern stack app, learn about Blockchian, Learn Spring and Phython make a Game
 
 <p>
     <img height="180em" width=400 src="https://github-readme-stats.vercel.app/api?username=Yehan20&show_icons=true&count_private=true&include_all_commits=true&custom_title=My GitHub stats&locale=en" alt="Yehan20" />
