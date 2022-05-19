@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently Looking for an Internship or a Trainee job
 - 🌱 I’m currently learning React and Firebase and laravel and Node
-- 💬 Ask me about JavaScript , Css 
+- 💬 Ask me about JavaScript , CSS  
 -  📫 Get in Touch: yehansk15@gmail.com
 -  👯 I’m looking to Open Source Projects
 -  2022 Goals: Learn About Node , Express and build Mern stack app, learn about Blockchian, Learn Spring and Phython make a Game
