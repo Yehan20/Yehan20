@@ -57,6 +57,8 @@
   <img alt='express' src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' />
   <img alt-'mongo' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
   <img alt='tailwind-css' src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
+  <img alt='firebase' src='https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=Firebase&logoColor=red'/>
+
 </p>
 
 
