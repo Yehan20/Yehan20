@@ -24,7 +24,7 @@
 - 💬 Ask me about JavaScript , CSS , React
 - 📫 Get in Touch: yehansk15@gmail.com
 - 👯 I’m looking to Open Source Projects
-- 2022 Goals: Learn About Node , Express and build Mern stack app, learn about Blockchian, Learn Spring and Phython make a Game
+- 2023 Goals: Study Block Chain Technologies , Learn AWS , Explore Machine Learning Libraries
 
 <p><img height="180em" width=400 src="https://github-readme-stats.vercel.app/api?username=Yehan20&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20PAT_1%20stats&locale=en" alt="Yehan20" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehan20&show_icons=true&layout=compact" alt='Yehan20' />
