@@ -20,7 +20,7 @@
 ### Nice to Meet You
 
 - 🔭 I am a Fullstack Developer with a Strong Interest in Machine Learning
-- 🌱 I’m currently Next JS , Spring Boot
+- 🌱 I’m currently Next JS , Spring Boot , AWS and Graph QL
 - 💬 Ask me about JavaScript , CSS , React
 - 📫 Get in Touch: yehansk15@gmail.com
 - 👯 I’m looking to Open Source Projects
