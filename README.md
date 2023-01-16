@@ -59,6 +59,7 @@
   <img alt='tailwind-css' src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
   <img alt='firebase' src='https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=Firebase&logoColor=red'/>
   <img alt='styled Components' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' />
+  <img alt='NPM' src='https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white' />
 </p>
 
 
