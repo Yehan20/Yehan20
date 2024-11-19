@@ -1,6 +1,6 @@
 ### Hello there I am Yehan 👋
 
-<img src="Yehan Nilanga (2).png" alt="Alt text" title="Banner">
+<img src="1724661974013.jpg" alt="Alt text" title="Banner">
 
 <a href="https://www.youtube.com/channel/UCehXOE5ywi5W0THfHnNZwpg">
   <img
